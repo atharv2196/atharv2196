@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @atharv2196
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PCCOE Pune
-- 💞️ I’m looking to collaborate on Ambitious Tech Enthuast
-- 📫 How to reach me :-
--  Mail:_ atharv.shinde24@pccoepune.org
--  Contact:- 8788012893
--  linkedin:- www.linkedin.com/in/atharv-shinde-2baa39226
+-👋 Hi there! I’m **@atharv2196**
+
+-💻 I’m passionate about **Web Development**  
+-📚 Currently learning at **PCCOE, Pune**  
+-🚀 Always eager to collaborate on **ambitious tech projects**  
+-🎯 Striving to grow as a **Tech Enthusiast**
+
+-📬 **Reach me at:**  
+--✉️ Email: [atharv.shinde24@pccoepune.org](mailto:atharv.shinde24@pccoepune.org)  
+--📱 Contact: +91 87880 12893  
+--🔗 LinkedIn: [atharv-shinde-2baa39226](https://www.linkedin.com/in/atharv-shinde-2baa39226)  
+--🌐 Portfolio: [personal_portfolio](https://atharv2196.github.io/personal_portfolio/)
 
 
   
