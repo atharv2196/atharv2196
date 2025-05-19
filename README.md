@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning PCCOE Pune
 - 💞️ I’m looking to collaborate on Ambitious Tech Enthuast
 - 📫 How to reach me :-
--  mail:_ atharv.shinde24@pccoepune.org
--  contact:- 8788012893
+-  Mail:_ atharv.shinde24@pccoepune.org
+-  Contact:- 8788012893
 -  linkedin:- www.linkedin.com/in/atharv-shinde-2baa39226
 
 
